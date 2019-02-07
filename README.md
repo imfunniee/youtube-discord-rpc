@@ -7,3 +7,4 @@ discord rich presence for youtube cause why not 😂
 > npm install
 > node index
 ```
+> not sponsored or affiliated with discord/youtube
