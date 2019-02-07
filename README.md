@@ -1,7 +1,7 @@
 # youtube-discord-rpc
 discord rich presence for youtube cause why not 😂
 
-![alt text](https://raw.githubusercontent.com/imfunniee/youtube-discord-rpc/master/rpc.png?token=AibtBmT32_CqP24yZn3Kdrwu8YH4WxMXks5cW_mLwA%3D%3D)
+![alt text](https://i.imgur.com/sXzaRfI.png)
 
 # Getting started
 ``` 
