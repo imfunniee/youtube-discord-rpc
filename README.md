@@ -23,6 +23,8 @@ Reasons for it not to work
 # Also if you happen to come across this error, just ignore it
 ```(node:5620) Warning: N-API is an experimental feature and could change at any time.```
 
+**btw is this against youtube or discord tos??**
+
 *credits https://github.com/Vereas/photoshop-rich-presence*
 
 > not sponsored or affiliated with discord/youtube
