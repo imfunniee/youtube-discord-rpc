@@ -1,7 +1,7 @@
 # youtube-discord-rpc
 Discord rich presence for youtube cause why not 😂
 
-![alt text](https://i.imgur.com/sXzaRfI.png)
+![alt text](https://i.imgur.com/drspFFT.png)
 
 # Getting started
 ``` 
