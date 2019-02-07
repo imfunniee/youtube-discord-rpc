@@ -1,5 +1,5 @@
 # youtube-discord-rpc
-discord rich presence for youtube cause why not
+discord rich presence for youtube cause why not 😂
 
 # Getting started
 ``` 
