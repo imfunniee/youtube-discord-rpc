@@ -20,4 +20,7 @@ discord rich presence for youtube cause why not 😂
 ## also if you happen to come across this error, just ignore it
 ```(node:5620) Warning: N-API is an experimental feature and could change at any time.```
 
+## future updates 🤷‍♀️
+haven't thought about it yet
+
 > not sponsored or affiliated with discord/youtube
