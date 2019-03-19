@@ -57,7 +57,7 @@ function updateRP(status,artist) {
     details: artist,
     state: status,
     largeImageKey: 'logo',
-    largeImageText: 'Youtube',
+    largeImageText: 'Youtube', //todo : make it show thumbnails & maybe a timer
     instance: false
   }).catch(err => {
     console.log(err);
