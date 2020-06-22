@@ -2,7 +2,9 @@ const clientId = '536162780303196161';
 const RPC = require('discord-rpc');
 const activeWin = require('active-win');
 const client = new RPC.Client({ transport: 'ipc' });
- 
+
+const browsers = ["chrome", "firefox", "opera", "iexplore", "safari"];
+
 var video = null;
 var artist = null;
 
@@ -11,14 +13,15 @@ function getOccurrence(array, value) {
 }
 
 async function youtube() {
+  
   let window = activeWin.sync();
-
+	
   try {
     let appExtension = isWin() ? ".exe" : ".app";
     let processName = window.owner.name;
     let windowTitle = window.title;
-
-    if (processName.toLowerCase() == `chrome${appExtension}`) {
+	
+    if (browsers.includes(processName.toLowerCase().split('.')[0])) {
       if (windowTitle.includes('YouTube')) {
           let title = windowTitle.split('YouTube');
           if (title[0] !== video) {
