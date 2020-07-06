@@ -1,6 +1,7 @@
 # youtube-discord-rpc
 Discord rich presence for youtube cause why not 😂
 
+[![Run on Repl.it](https://repl.it/badge/github/imfunniee/youtube-discord-rpc)](https://repl.it/github/imfunniee/youtube-discord-rpc)
 ![alt text](https://i.imgur.com/drspFFT.png)
 
 # Getting started
